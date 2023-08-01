@@ -1,1 +1,1 @@
-#!/bin/bashcho "SCHOOL" 
+echo "The school is open!"
